@@ -1,0 +1,12 @@
+git init
+git diff
+git status
+git add (à défaut de modifier directement)
+git commit -m "v2"
+git reset (retourne au dernier de l'index)
+git reset --hard v1 (retourne à une version)
+git checkout v1
+git checkout main (retourne à la version actuelle)
+git branch alternative (créer une alternative)
+git merge (résolution de conflits)
+cat song.txt (affiche le contenu d'un fichier)
